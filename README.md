@@ -1,6 +1,7 @@
 # react-native-calculadora
+> Feito com carinho, apoie com ⭐
 
-Feito com:
+Projeto com:
 - React Native
 - Expo
 
